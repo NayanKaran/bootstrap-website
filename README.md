@@ -27,7 +27,7 @@ If you have git installed you can clone the code to your machine, or download a 
 [Download the ZIP from this location](https://github.com/NayanKaran/bootstrap-website/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/c3c1l1a/Portfolio.git
+git clone https://github.com/NayanKaran/bootstrap-website.git
 ```
 
 ### Usage
