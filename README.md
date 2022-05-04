@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[https://nayankaran.github.io/Portfolio/](https://nayankaran.github.io/Portfolio/)
+[https://nayankaran.github.io/bootstrap-website/](https://nayankaran.github.io/bootstrap-website/)
 
 ## Getting Started
 
